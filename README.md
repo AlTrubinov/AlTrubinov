@@ -17,10 +17,6 @@
 
 <h2 align="left" id="AlTrubinov-stack">Tech stack</h2>
 
-<a href="#AlTrubinov-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov_langs" />
-</a>
-
 > General
 
 <table width='100%'>
@@ -65,6 +61,10 @@
 </table>
 
 > Web frameworks
+
+<a href="#AlTrubinov-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov_langs" />
+</a>
 
 <table width='100%'>
   <tr>
