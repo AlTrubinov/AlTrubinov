@@ -4,10 +4,6 @@
 <h4 align="left">I'm a Python Backend Developer from Siberia 🧊</h4>
 
 <a href="#AlTrubinov-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlTrubinov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="AlTrubinov_stats" align="right" />
-</a>
-
-<a href="#AlTrubinov-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov_langs" />
 </a>
 
@@ -115,6 +111,10 @@
 </table>
 
 ## :comet: Contact
+
+<a href="#AlTrubinov-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlTrubinov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="AlTrubinov_stats" align="right" />
+</a>
 
 - :comet: &nbsp;**[Github](https://github.com/debabin)**
 - :computer: &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
