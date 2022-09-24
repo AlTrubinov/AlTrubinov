@@ -47,7 +47,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#AlTrubinov-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="48" height="48" alt="github" />
       </a>
       <br>Github
     </td>
