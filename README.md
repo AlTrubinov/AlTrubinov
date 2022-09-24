@@ -116,7 +116,7 @@
 
 ## :comet: Contact
 
-- :comet: &nbsp;**[Github](https://github.com/debabin)**
+- :comet: &nbsp;**[Github](https://github.com/AlTrubinov)**
 - :computer: &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
 - :airplane: &nbsp;**[Telegram](https://t.me/Gpibabass)**
 - :detective: &nbsp;**[HeadHunter](https://tomsk.hh.ru/applicant/resumes/view?resume=434af325ff0aed22c00039ed1f4b5738744b34)**
