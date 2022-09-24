@@ -4,11 +4,11 @@
 <h4 align="left">I'm a Python Backend Developer from Siberia 🧊</h4>
 
 <a href="#AlTrubinov-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlTrubinov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="AlTrubinov" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlTrubinov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="AlTrubinov_stats" align="right" />
 </a>
 
 <a href="#AlTrubinov-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov_langs" />
 </a>
 
 - :fire: &nbsp;I develop with framework: **Django**
