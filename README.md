@@ -15,8 +15,6 @@
 
 <a href="https://www.codewars.com/users/Chponk"><img src="https://www.codewars.com/users/Chponk/badges/micro" width="131" height="28" /></a>
 
-<br>
-
 <h2 align="left" id="AlTrubinov-stack">Tech stack</h2>
 
 > General
