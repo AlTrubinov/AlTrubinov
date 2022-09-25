@@ -13,6 +13,8 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Gpibabass)**
 
+<a href="https://www.codewars.com/users/Chponk"><img src="https://www.codewars.com/users/Chponk/badges/micro" width="131" height="28" /></a>
+
 <br>
 
 <h2 align="left" id="AlTrubinov-stack">Tech stack</h2>
