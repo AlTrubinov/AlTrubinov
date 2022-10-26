@@ -9,7 +9,7 @@
 
 - :fire: &nbsp;I develop with framework: **Django**
 - :date: &nbsp;Databases: **PostgreSQL, SQLite with Django ORM, SQLAlchemy**
-- :seedling: &nbsp;I’m currently learning **REST, Flask, FastAPI**
+- :seedling: &nbsp;I’m currently learning **REST, FastAPI**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Gpibabass)**
 
@@ -73,12 +73,6 @@
         <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" width="48" height="48" alt="Django"         />
       </a>
       <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#AlTrubinov-stack">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
     </td>
     <td align="center" width="96">
       <a href="#AlTrubinov-stack">
