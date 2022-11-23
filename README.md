@@ -11,7 +11,7 @@
 - :date: &nbsp;Databases: **PostgreSQL, SQLite with Django ORM, SQLAlchemy**
 - :seedling: &nbsp;I’m currently learning **REST, FastAPI**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Gpibabass)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Aleksey_Trubinov)**
 
 <a href="https://www.codewars.com/users/Chponk"><img src="https://www.codewars.com/users/Chponk/badges/large" height="30" /></a>
 
@@ -112,7 +112,7 @@
 
 - :comet: &nbsp;**[Github](https://github.com/AlTrubinov)**
 - :computer: &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
-- :airplane: &nbsp;**[Telegram](https://t.me/Gpibabass)**
+- :airplane: &nbsp;**[Telegram](https://t.me/Aleksey_Trubinov)**
 - :detective: &nbsp;**[HeadHunter](https://tomsk.hh.ru/applicant/resumes/view?resume=434af325ff0aed22c00039ed1f4b5738744b34)**
 
 <br>
