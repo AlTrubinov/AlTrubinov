@@ -9,7 +9,7 @@
 
 - :fire: &nbsp;I develop with framework: **Django**
 - :date: &nbsp;Databases: **PostgreSQL, SQLite with Django ORM**
-- :seedling: &nbsp;I’m currently learning **REST, TDD**
+- :seedling: &nbsp;I’m currently learning **asyncio, aio-libs**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Aleksey_Trubinov)**
 
