@@ -16,36 +16,7 @@
 
 <h2 align="left" id="AlTrubinov-stack">Tech stack</h2>
 
-> General
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#AlTrubinov-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#AlTrubinov-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="45" height="45" alt="Postgres" />
-      </a>
-      <br>Postgres
-    </td>
-    <td align="center" width="96">
-      <a href="#AlTrubinov-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#AlTrubinov-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr> 
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov_langs" />
 
 ## :comet: Contact
 
