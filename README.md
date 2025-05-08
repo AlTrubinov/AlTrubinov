@@ -1,17 +1,16 @@
-<h1 align="left">:wave: Hello there! I'm Aleksey Trubinov</h1>
+<h1 align="left">:wave: Hello there! I'm Aleksei Trubinov</h1>
 
 
-<h4 align="left">I'm a Python Backend Developer from Siberia 🧊</h4>
+<h4 align="left">I'm a Backend Developer from Siberia 🧊</h4>
 
 <a href="#AlTrubinov-title">
   <img src="https://github-readme-stats.vercel.app/api?username=AlTrubinov&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="AlTrubinov_stats" align="right" />
 </a>
 
-- :fire: &nbsp;I develop with framework: **Django**
-- :date: &nbsp;Databases: **PostgreSQL, SQLite with Django ORM**
-- :seedling: &nbsp;I’m currently learning **asyncio, aio-libs**
+- :fire: &nbsp;I develop with: **PHP, Golang, Python**
+- :date: &nbsp;Databases: **PostgreSQL, MySQL, ClickHouse, Redis**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/Aleksey_Trubinov)**
+- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/El_Boba)**
 
 <a href="https://www.codewars.com/users/Chponk"><img src="https://www.codewars.com/users/Chponk/badges/large" height="30" /></a>
 
@@ -28,12 +27,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#AlTrubinov-stack">
-        <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" width="48" height="48" alt="Django"         />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
       <a href="#AlTrubinov-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="45" height="45" alt="Postgres" />
       </a>
@@ -47,12 +40,6 @@
     </td>
     <td align="center" width="96"> 
       <a href="#AlTrubinov-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-      <a href="#AlTrubinov-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
       </a>
       <br>Docker
@@ -60,53 +47,11 @@
   </tr> 
 </table>
 
-> Web frameworks
-
-<a href="#AlTrubinov-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlTrubinov&show_icons=true&locale=en&layout=compact&theme=react" alt="AlTrubinov_langs" />
-</a>
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#AlTrubinov-stack">
-        <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" width="48" height="48" alt="Django"         />
-      </a>
-      <br>Django
-    </td>
-  </tr> 
-</table>
-
-> Frontend
-
-<table width='100%'>
-    <tr>
-        <td align="center" width="96">
-            <a href="#AlTrubinov-stack">
-                <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-            </a>
-            <br>Bootstrap
-        </td>
-        <td align="center" width="96"> 
-            <a href="#AlTrubinov-stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-            </a>
-            <br>CSS3
-        </td>
-        <td align="center" width="96">
-            <a href="#AlTrubinov-stack">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-            </a>
-            <br>HTML5
-        </td>
-    </tr>
-</table>
-
 ## :comet: Contact
 
 - :comet: &nbsp;**[Github](https://github.com/AlTrubinov)**
 - :computer: &nbsp;**[LinkedIn](https://www.linkedin.com/in/aleksei-trubinov-84416424a/)**
-- :airplane: &nbsp;**[Telegram](https://t.me/Aleksey_Trubinov)**
+- :airplane: &nbsp;**[Telegram](https://t.me/El_Boba)**
 - :detective: &nbsp;**[HeadHunter](https://tomsk.hh.ru/applicant/resumes/view?resume=434af325ff0aed22c00039ed1f4b5738744b34)**
 
 <br>
